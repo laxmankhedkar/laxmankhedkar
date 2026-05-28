@@ -36,7 +36,7 @@
 
 I'm a passionate Data Science enthusiast with expertise in data analysis, machine learning, and data visualization. I specialize in transforming complex datasets into actionable insights that drive business decisions.
 
-- 🌱 Currently learning **Deep Learning, Neural Networks, and AI Deployment Techniques**
+- 🌱 Currently learning **LLM, RAG and AI Deployment Techniques**
 - 👯 Open to **collaborating on Data Science projects and research**
 - 📊 Exploring **Data Analytics, Data Science & ML Engineering roles**
 - 📫 Reach me at **khedkarlaxman823@gmail.com**
