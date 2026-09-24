@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Data+Analyst;Data+Science;Machine+Learning+Enthusiast;AI+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22F74B&center=true&vCenter=true&width=435&lines=Data+Science;Machine+Learning+Enthusiast;AI+ML+Engineer;Data+Analyst" alt="Typing SVG" />
 </p>
 
 ---
